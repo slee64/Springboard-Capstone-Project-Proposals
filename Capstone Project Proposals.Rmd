@@ -1,0 +1,20 @@
+---
+title: "Capstone Project Proposals"
+output: html_document
+---
+
+**Adoption of GMO Crops in the US**
+
+Genetically-modified crops are plants used for human consumption that have been genetically engineered to be pest-resistant, pesticide-tolerant, or a combination of both. Using data from 2000-2013, I will look at the state and countrywide trends in adoption of genetically modified corn, soybeans, and cotton. This data will address the yearly and overall trends in GMO adoption across the US.
+
+**Drug-related Mortality in Maryland**
+
+Drug-related deaths are a heath concern across the United States. A useful measure to assess the efficacy of substance abuse programs is mortality rates by substance each year. Using data from 2007-2014, I will examine the number of deaths due to selected substances in Maryland. Substances include: heroin, prescription opioids, alcohol, benzodiazepine, cocaine, and fentanyl. 
+
+**Climate Change Across the US**
+
+Climate change is a perilous issue affecting humankind. Monitoring changes in temperature is an important readout of the severity of climate change. Using data from 2000-2015, I will survey the changes in yearly average temperatures across the US. This data will address the severity of temperature changes in the US.
+
+```{r}
+```
+
